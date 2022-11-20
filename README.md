@@ -1,1 +1,10 @@
 Extracting narrative patterns in different textual genres: a multi-level feature discourse analysis
+
+
+This repository was created to include the code used to conduct the research presented in the article "Extracting narrative patterns in different textual genres: a multi-level feature discourse analysis".
+
+In this work, we present a data-driven approach to discover and extract patterns in textual genres with the aim of identifying whether there is an interesting variation of linguistic features among different narrative genres depending on their respective communicative purposes. 
+We want to achieve this goal by performing a multi-level discourse analysis according to: 1) the type of feature studied -shallow, syntactic, semantic, and discourse related-; 2) the texts at a document level; and 3) the textual genres of news, reviews and children tales. 
+To accomplish so, several corpora from the three textual genres were gathered from different sources to ensure a heterogeneous representation, paying attention to the presence and frequency of a series of features extracted with computational tools. This deep analysis aims at obtaining more detailed knowledge of the different linguistic phenomena that directly shape each of the genres included in the study, therefore showing the particularities that make them be considered as individual genres but also comprise them inside the narrative typology. 
+
+The findings suggest that this type of multi-level linguistic analysis could be of great help for areas of research within Natural Language Processing such as Computational Narratology, as they allow a better understanding of the fundamental features that define each genre and its communicative purpose. Likewise, this approach could also boost the creation of more consistent automatic story generation tools in areas of language generation.
