@@ -1,5 +1,10 @@
 # Extracting narrative patterns in different textual genres: a multi-level feature discourse analysis
 
+María Miró Maestre (maria.miro@ua.es), Marta Vicente (mvicente@dlsi.ua.es), Elena Lloret (elloret@dlsi.ua.es) and Armando Suárez Cueto (armando@dlsi.ua.es)
+
+Department of Software and Computing Systems, University of Alicante, Spain
+
+* Correspondence: maria.miro@ua.es
 ## Presentation
 
 This repository was created to include the code used to conduct the research presented in the article "Extracting narrative patterns in different textual genres: a multi-level feature discourse analysis".
